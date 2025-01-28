@@ -1,6 +1,6 @@
 Hi there I'm Sanad! 👋
 
-💻 Currently learning: Java, JavaScript and improving my programming skills.
+💻 Currently learning: Java, HTML and improving my programming skills.
 
 ⚡ Languages I know: Python (planning to continue mastering it).
 
