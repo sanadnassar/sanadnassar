@@ -8,4 +8,4 @@ Hi there I'm Sanad! 👋
 
 ✨ Passionate to contribute and help with projects
 
-🎓 Current CompSci Student @ WesternU and Graduate of National Orthodox School
+🎓 Current CompSci Student @ WesternU and Graduate of National Orthodox School (Jordan🇯🇴)
