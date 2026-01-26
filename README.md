@@ -10,7 +10,4 @@ Hi there I'm Sanad! 👋
 
 🎓 Current CompSci Student @ WesternU and Graduate of National Orthodox School (Jordan🇯🇴)
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/sanadnassar/count.svg" alt="Visitor's Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=sanadnassar&color=blue)
