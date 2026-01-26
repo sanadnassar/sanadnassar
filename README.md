@@ -11,3 +11,5 @@ Hi there I'm Sanad! 👋
 🎓 Current CompSci Student @ WesternU and Graduate of National Orthodox School (Jordan🇯🇴)
 
 ![](https://komarev.com/ghpvc/?username=sanadnassar&color=blue)
+
+<img src="https://profile-counter.deno.dev/sanadnassar/count.svg" alt="Visitor's Count" />
