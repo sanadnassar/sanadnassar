@@ -9,3 +9,8 @@ Hi there I'm Sanad! 👋
 ✨ Passionate to contribute and help with projects
 
 🎓 Current CompSci Student @ WesternU and Graduate of National Orthodox School (Jordan🇯🇴)
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
