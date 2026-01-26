@@ -1,14 +1,6 @@
-Hi there I'm Sanad! 👋
-
-💻 Currently learning: Java, HTML, Data Structures and Algorithms.
-
-⚡ Languages I know: Python (planning to continue mastering it). As well as experience with frameworks and libraries like pandas, matplotlib, and NumPy.
-
-🌍 Languages I speak: Arabic, English and working towards becoming trilingual.
-
-✨ Passionate to contribute and help with projects
-
-🎓 Current CompSci Student @ WesternU and Graduate of National Orthodox School (Jordan🇯🇴)
+<h1 style="text-align: center; font-size: 4rem; background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  I'm Sanad Nassar
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=sanadnassar&color=blue)
 
