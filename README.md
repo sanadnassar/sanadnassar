@@ -19,8 +19,8 @@
 <br>
 
 <div align=center>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanadnassar&show_icons=true&theme=dark" width="400" /> 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=sanadnassar&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Sanad's Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanadnassar&show_icons=true&theme=tokyonight" width="400" /> 
+  <img width="325" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sanadnassar&theme=tokyonight&layout=donut&hide=css&langs_count=8&show_icons=true" alt="Sanad's Most Used Languages" />
 </div>
 
 <hr>
