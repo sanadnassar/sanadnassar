@@ -29,7 +29,7 @@
 
 Hey, I'm **Sanad**, a third-year **Computer Science & Software Engineering** student at **Western University** based in Ontario, Canada.
 
-- 🔭 **Currently building:** Classical quantum VQE simulations (**MoleQule**) and a C++17 & Qt 6 paper-trading terminal (**CryptoLab**).
+- 🔭 **Currently building:** Classical quantum VQE simulations (**MoleQule**) and a C++17 Crypto trading app (**CryptoLab**).
 - 💻 **Interests:** Full-stack development, machine learning, systems engineering, and computer vision.
 - 🏋️ **Outside of code:** Grinding in the gym, playing squash & padel, and running BO3 Zombies & Valorant.
 
@@ -38,7 +38,7 @@ Hey, I'm **Sanad**, a third-year **Computer Science & Software Engineering** stu
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,react,tailwind,threejs,vite,postgres,docker,qt,git,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,react,tailwind,threejs,vite,postgres,docker,qt,git,linux,vscode,opencv&perline=8" />
 </div>
 
 ---
